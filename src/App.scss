@@ -78,9 +78,17 @@ iframe {
 }
 
 .section {
-  padding: 0 2rem;
+  padding: 0 10rem;
+
+  @include tablet {
+    padding: 0 2rem;
+  }
 }
 
 .section__header {
   @include flex(center, space-between);
+
+  h2 {
+    color: $main-color;
+  }
 }

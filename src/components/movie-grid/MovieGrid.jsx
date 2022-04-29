@@ -122,7 +122,7 @@ function MovieSearch(props) {
         <div className="movie-search">
             <Input
                 type="text"
-                placeholder="Nhập tên phim bạn muốn tìm"
+                placeholder="Nhập tên phim bạn muốn tìm ..."
                 value={keyword}
                 onChange={(e) => setKeyword(e.target.value)}
             />

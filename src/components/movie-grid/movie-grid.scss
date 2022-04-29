@@ -16,14 +16,19 @@
     position: relative;
     width: 100%;
     max-width: 500px;
+    margin: 0 auto;
+
     input {
         width: 100%;
         padding-right: 8rem;
+        height: 50px;
     }
+
     button {
         position: absolute;
-        top: 0;
-        top: 2px;
+        top: 8px;
+        right: 10px;
+
         @include mobile {
             right: 1px;
             top: 1px;
