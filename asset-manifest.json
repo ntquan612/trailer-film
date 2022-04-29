@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trailer-film/static/css/main.c331ae89.css",
+    "main.js": "/trailer-film/static/js/main.5f02921b.js",
+    "static/media/footer-bg.jpg": "/trailer-film/static/media/footer-bg.b4536e28258a85ee4b02.jpg",
+    "static/media/logo.png": "/trailer-film/static/media/logo.f2a8e5d0521176518204.png",
+    "index.html": "/trailer-film/index.html",
+    "main.c331ae89.css.map": "/trailer-film/static/css/main.c331ae89.css.map",
+    "main.5f02921b.js.map": "/trailer-film/static/js/main.5f02921b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c331ae89.css",
+    "static/js/main.5f02921b.js"
+  ]
+}
